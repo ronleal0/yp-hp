@@ -3,3 +3,7 @@ margin-top: 30px;
 font-size: 24px;
 line-height: 115%;
 }
+
+.small {
+	font-weight: normal!important;
+}
